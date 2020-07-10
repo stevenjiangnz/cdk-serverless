@@ -5,3 +5,4 @@ import { MyWidgetServiceStack } from '../lib/my_widget_service-stack';
 
 const app = new cdk.App();
 new MyWidgetServiceStack(app, 'MyWidgetServiceStack');
+
